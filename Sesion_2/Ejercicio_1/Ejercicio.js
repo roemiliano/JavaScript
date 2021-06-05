@@ -1,3 +1,6 @@
+
+var time = 13;
+var saludo;
 if (time >= 0 && time < 12 ) {
     saludo = "Buenos días"
  } else if (time >= 12 && time < 20) {
